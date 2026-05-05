@@ -1,0 +1,11 @@
+May 03, 2026 10:50:12 AM TestLog main
+INFO: Application started
+
+May 03, 2026 10:50:12 AM TestLog main
+WARNING: Low memory warning
+
+May 03, 2026 10:50:12 AM TestLog main
+SEVERE: Database connection failed
+
+Mar 22, 2024 1:11:31 PM com.example.MyClass main
+INFO: This is a standard info message.
